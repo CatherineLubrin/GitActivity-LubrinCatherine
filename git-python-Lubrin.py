@@ -1,0 +1,5 @@
+print ("CatherineLubrin")
+print ("Laylay,Boac,Marinduque")
+print ("September 10, 2002")
+print ("Marinduque State College")
+print ("Bachelor of Science in Information Technology-2B")
